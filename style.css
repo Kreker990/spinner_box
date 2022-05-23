@@ -1,0 +1,23 @@
+h6{
+    color: rgb(red, green, blue);
+}
+body{
+    background-color: saddlebrown;
+    
+}
+.buttons{
+    position: absolute;
+    display: flex;
+    width: 200px;
+    height: 300px;
+    background-color: rgba(90, 37, 2, 0.788);
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    top : 20px;
+    flex-direction: column;
+    left: 800px;
+}
+
+
+
